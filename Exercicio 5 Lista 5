@@ -1,0 +1,16 @@
+/******************************************************************************
+
+Christopher Seiti Cassaro - Exercício 5 Lista 5
+
+*******************************************************************************/
+#include <stdio.h>
+
+int ascii (int n) {
+    return (n>= 'a' && n <= 'z');
+}
+int main(){
+    char n;
+    
+    scanf("%c", &n);
+    printf("Retorno do char %d", ascii (n));
+}
