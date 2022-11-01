@@ -1,0 +1,25 @@
+/******************************************************************************
+
+Christopher Seiti Cassaro - Exercício 5 Lista 4
+
+*******************************************************************************/
+#include <stdio.h>
+
+int fibonacci (int n) {
+    int a = 1, b = 1, fibonaccin = 1;
+    for (int i = 3; i <= n; i++){
+        fibonaccin = a + b;
+        a = b;
+        a = fibonaccin;
+    } 
+    return fibonaccin;
+}
+    int main () {
+    int a, b, i, n, fibonaccin;
+    
+    printf ("Digite um valor maior que zero: ");
+    scanf ("%d", &n);
+    
+    printf ("O valor do resultado é: = %d", fibonacci(n));
+    return 0;
+}
