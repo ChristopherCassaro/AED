@@ -1,0 +1,14 @@
+/******************************************************************************
+
+Christopher Seiti Cassaro - Exercício 1 Recursividade - 31/10/2022
+
+*******************************************************************************/
+#include <stdio.h>
+
+void ciclo (int n, int limite) {
+    
+    for (int i=n; i<= limite; i++) {
+        
+        printf("%d \n", i);
+    }
+}
