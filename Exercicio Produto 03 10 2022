@@ -1,6 +1,7 @@
 /******************************************************************************
 
 Christopher Seiti Cassaro - 03/10/22
+Codigo que avalia um produto e retorna seus parametros
 
 *******************************************************************************/
 #include <stdio.h>
