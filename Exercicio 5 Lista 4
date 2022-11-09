@@ -1,6 +1,7 @@
 /******************************************************************************
 
 Christopher Seiti Cassaro - Exercício 5 Lista 4
+Programa que calcula fibonacci com base no numero digitado
 
 *******************************************************************************/
 #include <stdio.h>
