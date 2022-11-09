@@ -1,6 +1,7 @@
 /******************************************************************************
 
 Christopher Seiti Cassaro 08/08/22 - primeiro programa do 2º semestre
+Programa que calcula o salario pela quantidade de horas trabalhadas
 
 *******************************************************************************/
 #include <stdio.h>
