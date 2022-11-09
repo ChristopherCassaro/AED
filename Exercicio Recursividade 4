@@ -1,6 +1,7 @@
 /******************************************************************************
 
 Christopher Seiti Cassaro - Exercício 4 Recursividade - 31/10/2022
+Programa que calcula o numero fatorial
 
 *******************************************************************************/
 #include <stdio.h>
