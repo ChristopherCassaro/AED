@@ -1,6 +1,7 @@
 /******************************************************************************
 
 Christopher Seiti Cassaro - Exercício 5 Lista 5
+Programa que informa um numero por meio de ascii
 
 *******************************************************************************/
 #include <stdio.h>
