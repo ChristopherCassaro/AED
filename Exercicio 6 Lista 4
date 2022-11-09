@@ -1,6 +1,7 @@
 /******************************************************************************
 
 Christopher Seiti Cassaro - Exercício 6 Lista 4
+Programa que realiza um somatorio entre numeros
 
 *******************************************************************************/
 #include <stdio.h>
