@@ -1,3 +1,8 @@
+Christopher Seiti Cassaro
+Codigo que indica o fatorial do numero digitado
+
+-------------------------------------------------------------
+
 #include <stdio.h>
 
 int fatorial(int n)
