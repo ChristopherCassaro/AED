@@ -1,6 +1,7 @@
 /******************************************************************************
 
 Christopher Seiti Cassaro - Exercício 1 Recursividade - 31/10/2022
+Programa que indica um limite numerico
 
 *******************************************************************************/
 #include <stdio.h>
