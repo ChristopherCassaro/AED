@@ -1,3 +1,8 @@
+/*
+Christopher Seiti Cassaro
+Programa que le duas idades e indica a diferença
+
+----------------------------------------------------------------------------------
 #include <stdio.h>
 
 int leidade (){
